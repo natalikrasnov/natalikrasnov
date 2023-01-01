@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/natali_krasnov"><img src="https://api.daily.dev/devcards/8d194e71d9d54a22a19dfcd3e8537d25.png?r=86g" width="400" alt="נטלי קרסנוב's Dev Card"/></a>
+<a href="https://app.daily.dev/natali_krasnov"><img src="https://github.com/natalikrasnov/natalikrasnov/blob/master/devcard.svg" width="400" alt="Natali Krasnov's Dev Card"/></a>
+
+
